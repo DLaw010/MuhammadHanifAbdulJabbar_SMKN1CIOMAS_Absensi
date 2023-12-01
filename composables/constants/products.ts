@@ -1,0 +1,47 @@
+export const products = [
+    {
+      id: 9,
+      name: "Kautsar",
+      category: "Masuk",
+      price: 13,
+      image: "/images/products/baju-6.png",
+      isCart: false,
+      description: "Masuk",
+    },
+    {
+      id: 10,
+      name: "Abdul",
+      category: "Masuk",
+      price: 20,
+      image: "/images/products/figure bleach2.jpg",
+      isCart: false,
+      description: "Masuk",
+    },
+    {
+      id: 15,
+      name: "Zidan",
+      category: "Masuk",
+      price: 30,
+      image: "/images/figure goku.jpg",
+      isCart: false,
+      description: "Masuk",
+    },
+    {
+      id: 12,
+      name: "Zidan",
+      category: "Masuk",
+      price: 30,
+      image: "/images/products/figure goku.jpg",
+      isCart: false,
+      description: "saya masuk jam 06:24",
+    },
+    {
+      id: 5,
+      name: "Batch Freelancer Men's Button Down Shirt in Aluminum Gray",
+      category: "Baju",
+      price: 10,
+      image: "/images/products/baju-5.png",
+      isCart: false,
+      description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    }
+  ];
